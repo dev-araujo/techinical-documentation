@@ -2,7 +2,7 @@
 
 ## 🎨 Resultado
 
-- O resultado pode ser conferido aqui: [**CodePen**](https://codepen.io/dev-araujo/full/qBpZMmv)
+- O resultado pode ser conferido [**aqui**](https://techinical-documentation-freecodecamp.vercel.app/)
 
 ![thecnical](https://user-images.githubusercontent.com/97068163/159126499-5b95a9ee-207c-464f-a194-e02da37dcb76.png)
 
